@@ -1,0 +1,27 @@
+{
+    "guildid": "no id",
+    "bot": {
+        "token": "no token",
+        "clientid": "no id",
+        "color": "#FFFFFF"
+    },
+    "channels": { 
+        "welcome": "no channel id",
+        "suggestie": "no channel id",
+        "countgame": "no channel id",
+        "dcstats": "no channel id"
+    },
+    "roles": {
+        "new": "no rol id",
+        "support": "no rol id"
+    },
+    "ticket": {
+        "panelchannel": "no channel id",
+        "category": "no category id"
+    },
+    "infoCommands": {
+        "youtube": "//URL",
+        "tiktok": "//URL",
+        "shop": "//URL" 
+    }
+}

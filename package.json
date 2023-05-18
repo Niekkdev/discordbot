@@ -1,0 +1,20 @@
+{
+  "name": "yourname",
+  "version": "1.0.0",
+  "description": "Discord Bot made by https://niekkdev.me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niekkdev",
+  "license": "ISC",
+  "dependencies": {
+    "@distube/soundcloud": "^1.2.2",
+    "@distube/spotify": "^1.4.2",
+    "@distube/yt-dlp": "^1.1.3",
+    "canvacord": "^5.4.6",
+    "discord.js": "^14.3.0",
+    "distube": "^4.0.4",
+    "mysql": "^2.18.1"
+  }
+}
